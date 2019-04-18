@@ -1,5 +1,6 @@
 # Atomata_BiBi
-Automata graph and code for a simple robot named BiBi based on Automata Programming.
+Automata graph and emulator code (Windows, C) for a simple robot named BiBi based on Automata Programming.
+These automatas will be used on the real Atmel based robot.
 
 In this project the Visio2Switch tool is used to generate code from Visio Automata graph.
 
